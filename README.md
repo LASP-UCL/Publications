@@ -1,8 +1,8 @@
-Project quickstart guide:
-- https://github.com/LASP-UCL/Getting-started
+Publications:
+- /
 
-Project template:
-- https://github.com/LASP-UCL/Your-project-title
+Master's projects:
+- /
 
-List of completed student projects:
+Bachelor's projects:
 - /
